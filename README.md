@@ -1,2 +1,1 @@
-partitioned-data-structures
-===========================
+This repository is for experiments with data structures whose interfaces are partitioned into multiple contracts to improve concurrency.
